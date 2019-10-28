@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ngto_plugin",
+  "name": "MCTSG NGTO Plugin",
+  "description": "Adds Ngto format as a building file format.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Qwertzite"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
